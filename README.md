@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Saran Joel.M</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Engineer</h3>
 
 - 🔭 One of my project - **Single Image Dehazing using Dark Channel Prior**
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 🤝 I’m looking for help in **Data Science, AI-ML**
+- 🤝 I’m looking for help in **Data Analytics**
 
 - 💬 Ask me about **Python,C**
 
