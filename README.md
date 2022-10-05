@@ -3,7 +3,7 @@
 
 - 🔭 One of my project - **Single Image Dehazing using Dark Channel Prior**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Software Development,Data Analytics**
 
 - 🤝 I’m looking for help in **Data Analytics**
 
